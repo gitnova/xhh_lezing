@@ -1,0 +1,15 @@
+vendor/
+
+/cache/
+/config/xml/*.xml
+/log/
+*sitemap.xml
+/themes/*/cache/
+/modules/*/config*.xml
+
+download/
+img/
+upload/
+
+
+config/settings.*.php
